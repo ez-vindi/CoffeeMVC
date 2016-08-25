@@ -1,0 +1,6 @@
+{
+  "name": "Coffeemvc",
+  "tagline": "MVC to CoffeeScript",
+  "body": "# Coffee MVC\r\n\r\nMVC to CoffeeScript\r\n\r\n## Install dev\r\n\r\n`npm install`\r\n\r\n## Folders\r\n\r\n- **Source** source code project\r\n- **Scripts** Result of the source code compiled\r\n\r\n## File division\r\n\r\n- **Initial Definitions** Declare all variables and objects that are known\r\n- **Function** All functions that will be used\r\n- **Models** Functions to bring external information, mostly using Ajax\r\n- **Controlllers** Events and functions that call other functions\r\n- **Main** Function that is executed when the file is started",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
