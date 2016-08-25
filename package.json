@@ -1,0 +1,18 @@
+{
+  "name": "coffee-mvc",
+  "version": "1.0.0",
+  "description": "MVC to CoffeeScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evandro Zanatta",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-coffee": "^2.3.2",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.9"
+  }
+}
