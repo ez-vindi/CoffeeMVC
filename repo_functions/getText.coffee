@@ -1,0 +1,2 @@
+getText = (el) ->
+  el.textContent

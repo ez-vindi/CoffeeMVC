@@ -2,7 +2,9 @@
 
 MVC to CoffeeScript
 
-## Install dev
+## Install
+
+`git clone https://github.com/ezanattatray/CoffeeMVC.git`
 
 `npm install`
 
