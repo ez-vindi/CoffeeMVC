@@ -1,0 +1,2 @@
+parent = (el) ->
+  el.parentNode

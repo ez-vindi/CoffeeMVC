@@ -8,8 +8,9 @@ MVC to CoffeeScript
 
 ## Folders
 
-- **Source** source code project
-- **Scripts** Result of the source code compiled
+- **source** Source code project
+- **scripts** Result of the source code compiled
+- **repo_function** List of functions in CoffeeScript
 
 ## File division
 
